@@ -1,2 +1,2 @@
 # odin-recipes
-odin project recipe project
+HTML practice project. Making a recipe website.
